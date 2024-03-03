@@ -5,8 +5,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afimiani&show_icons=true&locale=en" alt="afimiani" /></p>
-
 
 ```yaml
 name: Andrea Fimiani
@@ -15,18 +13,11 @@ job: PhD Student in Industrial Engineering  @ Università degli Studi di Napoli 
 education: ["Master's in Robotics", "Bachelor's in Automation Engineering"]
 ```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afimiani&theme=onedark" alt="afimiani" /></a> </p>
-
 
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afimiani&show_icons=true&locale=en&layout=compact" alt="afimiani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afimiani&" alt="afimiani" /></p>
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -41,6 +32,7 @@ education: ["Master's in Robotics", "Bachelor's in Automation Engineering"]
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/) &nbsp;
 [<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>](https://www.arduino.cc/) &nbsp; 
 
+<br>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
