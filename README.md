@@ -26,6 +26,7 @@ education: ["Master's in Robotics", "Bachelor's in Automation Engineering"]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/) &nbsp; 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org/) &nbsp; 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>](https://www.qt.io/) &nbsp; 
+[<img src="https://www.reachtech.com/wp-content/uploads/2022/07/QML.png" alt="qml" width="60" height="40"/>](https://doc.qt.io/qt-6/qtqml-index.html) &nbsp; 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>](https://www.mathworks.com/) &nbsp; 
 [<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>](https://unity.com/) &nbsp; 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/) &nbsp; 
